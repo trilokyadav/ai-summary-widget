@@ -4,7 +4,7 @@
 
 A drop-in `<script>` tag that adds a row of AI assistant buttons to your page. Visitors click one - their preferred AI opens with a "summarize this page" prompt pre-filled. Useful when you want people to quickly understand what your company, product, or feature does without reading through everything.
 
-**[→ Create a widget for your brand at trilokyadav.com/projects/ai-summary-widget](https://trilokyadav.com/projects/ai-summary-widget)**
+**[→ Create a widget for your brand](https://trilokyadav.com/projects/ai-summary-widget)**
 
 - ~2 KB gzipped, zero dependencies
 - No tracking, no cookies, no backend
@@ -53,7 +53,7 @@ The AI now knows the brand, the URL, and the brand's own pitch in their own word
 
 1. **Use the visual builder** (easiest) - point, click, copy your custom snippet:
 
-   **[→ Build your snippet at trilokyadav.com/projects/ai-summary-widget](https://trilokyadav.com/projects/ai-summary-widget)**
+   **[→ Build your snippet](https://trilokyadav.com/projects/ai-summary-widget)**
 
 2. **Hand-edit the script tag** - add `data-*` attributes (see [Configuration](#configuration) below).
 
