@@ -4,7 +4,7 @@
 
 A drop-in `<script>` tag that adds a row of AI assistant buttons to your page. Visitors click one - their preferred AI opens with a "summarize this page" prompt pre-filled. Useful when you want people to quickly understand what your company, product, or feature does without reading through everything.
 
-**[→ Create a widget for your brand](https://trilokyadav.com/projects/ai-summary-widget)**
+**[→ Create a widget for you](https://trilokyadav.com/projects/ai-summary-widget)**
 
 - ~2 KB gzipped, zero dependencies
 - No tracking, no cookies, no backend
